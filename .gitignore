@@ -1,0 +1,8 @@
+# 不纳入原始教材与提取中间文件
+*.pdf
+full_text.txt
+metadata.json
+
+# 本地临时文件
+.DS_Store
+__pycache__/
