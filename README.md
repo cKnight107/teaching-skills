@@ -29,7 +29,7 @@
 
 如果你使用的 AI 工具能够读取仓库、操作本地文件并支持 Agent Skills，可以直接复制下面这段话给它：
 
-> 请从 https://github.com/cKnight107/teaching-skills或https://gitee.com/kai-chen/teaching-skills 安装 bnu-math-grade9-volume1 技能，安装到我当前使用的 Agent 的技能目录。请保留整个技能文件夹及其相对目录结构，不覆盖已有同名技能；安装完成后告诉我如何调用它。
+> 请从 https://github.com/cKnight107/teaching-skills 或 https://gitee.com/kai-chen/teaching-skills 安装 bnu-math-grade9-volume1 技能，安装到我当前使用的 Agent 的技能目录。请保留整个技能文件夹及其相对目录结构，不覆盖已有同名技能；安装完成后告诉我如何调用它。
 
 安装完成后，按工具提示重新加载技能或开启新会话，再试试下一节的提问。
 
